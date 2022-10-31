@@ -2,13 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+$ npx create-next-app@latest --ts postgresql
+$ cd postgresql/
+$ npm i @supabase/auth-helpers-nextjs @supabase/auth-helpers-react @supabase/auth-ui-react @nextui-org/react
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
